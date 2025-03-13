@@ -1,4 +1,4 @@
-# #Documentation
+## Documentation
 # 
 #  How it works:
  - The chatbot takes predefined queries and returns financial insights from our dataset.
