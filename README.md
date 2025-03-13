@@ -7,7 +7,7 @@ A simple AI chatbot that provides financial insights based on company data.
 - Built with Python and pandas.
 
 ## Installation
-1. Clone this repository: git clone https://github.com/nasee944/financial-chatbot.git
+1. Clone this repository: git clone https://github.com/naseef944/financial-chatbot.git
 2. Navigate to the project folder: cd financial-chatbot
 3. Run the chatbot: python financial_chatbot.py
 
